@@ -1,0 +1,5 @@
+2020-09-17 10:29:38,178  INFO [main] Log4JClass:9 - Hi this is mahesh
+2020-09-17 10:29:38,197  INFO [main] Log4JClass:14 - entering application URL
+2020-09-17 10:29:38,197  WARN [main] Log4JClass:15 - Hey this just a warning message
+2020-09-17 10:29:38,197 FATAL [main] Log4JClass:16 - hey this is just fatal error message
+2020-09-17 10:29:38,198 DEBUG [main] Log4JClass:17 - this is debug message
